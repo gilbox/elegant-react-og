@@ -14,7 +14,7 @@ See [this Medium article](https://medium.com/@gilbox/an-elegant-functional-archi
 
 ## Installation
 
-Install via npm
+Install via npm (note: this will install the *new* elegant-react)
 
     npm install elegant-react
 
@@ -91,13 +91,13 @@ Clone this repo, then:
 
 ## live examples
 
-- [Phone Input](http://gilbox.github.io/elegant-react/examples/phone-input/demo.html)
-- [Phone Input (using classes)](http://gilbox.github.io/elegant-react/examples/phone-input-classy/demo.html)
-- [Address Book](http://gilbox.github.io/elegant-react/examples/address-book/demo.html)
-- [Address Book w/streams](http://gilbox.github.io/elegant-react/examples/address-book-streams/demo.html)
-- [Address Book w/"Store" streams](http://gilbox.github.io/elegant-react/examples/address-book-store-streams/demo.html)
-- [Address Book w/"Store" streams (using classes)](http://gilbox.github.io/elegant-react/examples/address-book-store-streams-classy/demo.html)
-- [Scroll Spring Animation](http://gilbox.github.io/elegant-react/examples/scroll-spring-animation/demo.html)
+- [Phone Input](http://gilbox.github.io/elegant-react-og/examples/phone-input/demo.html)
+- [Phone Input (using classes)](http://gilbox.github.io/elegant-react-og/examples/phone-input-classy/demo.html)
+- [Address Book](http://gilbox.github.io/elegant-react-og/examples/address-book/demo.html)
+- [Address Book w/streams](http://gilbox.github.io/elegant-react-og/examples/address-book-streams/demo.html)
+- [Address Book w/"Store" streams](http://gilbox.github.io/elegant-react-og/examples/address-book-store-streams/demo.html)
+- [Address Book w/"Store" streams (using classes)](http://gilbox.github.io/elegant-react-og/examples/address-book-store-streams-classy/demo.html)
+- [Scroll Spring Animation](http://gilbox.github.io/elegant-react-og/examples/scroll-spring-animation/demo.html)
 
 ## credit
 
