@@ -1,4 +1,4 @@
-### NOTE: I created this repo for posterity. [Go here to see the latest elegant-react.](https://github.com/gilbox/elegant-react)
+### NOTE: I created this repo for posterity. Use this repo to grok the articles linked below in the *about* section, then [go here to see the latest elegant-react.](https://github.com/gilbox/elegant-react)
 
 # elegant-react
 
