@@ -1,3 +1,5 @@
+### NOTE: I created this repo for posterity. [Go here to see the latest elegant-react.](https://github.com/gilbox/elegant-react)
+
 # elegant-react
 
 Functional React Architecture based on [omniscient](http://omniscientjs.github.io/) and [browser.html](https://github.com/mozilla/browser.html/).
